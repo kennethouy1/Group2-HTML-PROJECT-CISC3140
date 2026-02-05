@@ -1,0 +1,13 @@
+:root {
+    background-color: #594242;
+    font-family: ArialPixel;
+    color: #dedfd6
+}
+
+@font-face {
+    font-family: ArialPixel;
+    src: url("../fonts/ArialPixel.ttf")
+    format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
