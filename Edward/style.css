@@ -29,5 +29,15 @@
     background-color: #424259;
     border-radius: 10px;
     padding: 10px;
-    width: 50%;
+    width: 20%;
+}
+
+.container-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-text {
+    text-align: center;
 }
