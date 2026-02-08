@@ -19,6 +19,10 @@
     margin: auto;
 }
 
+.header-element {
+    margin: 0px;
+}
+
 .container {
     display: flex;
     flex-direction: row;
@@ -36,6 +40,20 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container-logo-game {
+    width: 50px;
+    height: 50px;
+    padding-bottom: 0px;
+}
+
+.container-logo {
+    width: 80px;
+    height: 80px;
+    background-color: #dedfd6;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .container-text {
