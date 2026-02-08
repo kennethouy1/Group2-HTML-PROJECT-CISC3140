@@ -41,3 +41,11 @@
 .container-text {
     text-align: center;
 }
+
+a:link {
+    color: #dedfd6;
+}
+
+a:visited {
+    color: #dedfd6;
+}
