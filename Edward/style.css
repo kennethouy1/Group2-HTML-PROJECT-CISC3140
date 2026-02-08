@@ -1,5 +1,5 @@
 :root {
-    background-color: #594242;
+    background-color: #3e4637;
     font-family: ArialPixel;
     color: #dedfd6;
 }
@@ -26,7 +26,7 @@
 }
 
 .container-element {
-    background-color: #595342;
+    background-color: #4a5942;
     border-radius: 10px;
     padding: 10px;
     width: 20%;
@@ -56,7 +56,7 @@ body {
 
 footer {
     position: fixed;
-    background-color: #595342;
+    background-color: #4a5942;
     outline: 5px ridge #dedfd6;
     padding: 10px;
     left: 0;
