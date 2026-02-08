@@ -50,9 +50,14 @@ a:visited {
     color: #dedfd6;
 }
 
+body {
+    margin-bottom: 70px;
+}
+
 footer {
     position: fixed;
     background-color: #595342;
+    outline: 5px ridge #dedfd6;
     padding: 10px;
     left: 0;
     bottom: 0;
